@@ -2,7 +2,7 @@
 
 ## 🎓 College Project
 
-**Duration:** [Add dates - e.g., August 2023 - December 2023]
+**Duration:** [January 2025 - June 2025]
 
 **Team Size:** 3 Members
 
@@ -101,7 +101,7 @@ An immersive VR platform where medical students can:
 - Testing and debugging C# codebase
 - Build optimization and performance tuning
 
-**[Third Member]'s Contributions (Design & Assets):**
+**Animesh's Contributions (Design & Assets):**
 - 3D modeling of surgical tools and environments
 - UI/UX design for menu systems and HUD
 - Texture creation and material design
@@ -236,7 +236,7 @@ Through developing this VR medical training application, I gained expertise in:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/YOUR-USERNAME/vr-medical-training
+   git clone https://github.com/ronny12git/vr-medical-training
 ```
 
 2. **Open in Unity Hub:**
@@ -309,7 +309,7 @@ This repository represents my **individual contributions** (C# development and p
 The complete project involved:
 - **C# Development (Me):** Core gameplay, physics, scoring, VR interaction
 - **Unity Integration (Yash):** Scene management, audio, optimization
-- **Design & Assets ([Third Member]):** 3D models, UI/UX, testing
+- **Design & Assets (Animesh):** 3D models, UI/UX, testing
 
 **Original team repository:** https://github.com/Yashgit1203/vr-for-medical-surgery-and-operations
 
